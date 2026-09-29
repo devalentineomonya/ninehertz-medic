@@ -196,7 +196,8 @@ export class ChatService {
 
       if (!messages || !Array.isArray(messages) || messages.length === 0) {
         throw new Error('Invalid or empty messages array');
-    826
+      }
+
       this.logger.log(`Processing ${messages.length} messages`);
 
       const userContext = await this.getUserContext(userId, userRole);
