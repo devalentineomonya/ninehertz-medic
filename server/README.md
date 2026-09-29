@@ -1,12 +1,12 @@
 # NineHertz NestJS Server with TypeORM & Docker
 
-![NestJS Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/server/@nestjs/core?color=red&logo=nestjs)
-![Node.js Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/server/engines/node?color=green&logo=node.js)
-![TypeScript Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/server/dev/typescript?color=blue&logo=typescript)
-![TypeORM Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/server/typeorm?color=informational)
+![NestJS Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/server/@nestjs/core?color=red&logo=nestjs)
+![Node.js Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/server/engines/node?color=green&logo=node.js)
+![TypeScript Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/server/dev/typescript?color=blue&logo=typescript)
+![TypeORM Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/server/typeorm?color=informational)
 ![Docker](https://img.shields.io/badge/Docker-✓-blue?logo=docker)
 ![PNPM](https://img.shields.io/badge/pnpm-✓-orange?logo=pnpm)
-![License](https://img.shields.io/github/license/devalentineomonya/NineHertz-NestJs-Tanstack-Start?color=blue)
+![License](https://img.shields.io/github/license/devalentineomonya/ninehertz-medic?color=blue)
 
 ## Overview
 
@@ -55,8 +55,8 @@ server/
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start.git
-cd NineHertz-NestJs-Tanstack-Start/server
+git clone https://github.com/devalentineomonya/ninehertz-medic.git
+cd ninehertz-medic/server
 ```
 
 ### 2. Install dependencies:
@@ -254,8 +254,8 @@ export default registerAs('database', () => ({
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/devalentineomonya/ninehertz-medic/blob/main/LICENSE) file for details.
 
 ## Support
 
-For issues or questions, please [open an issue](https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start/issues) on GitHub.
+For issues or questions, please [open an issue](https://github.com/devalentineomonya/ninehertz-medic/issues) on GitHub.

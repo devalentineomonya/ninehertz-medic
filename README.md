@@ -1,12 +1,12 @@
 # NineHertz Full-Stack Starter with NestJS & React
 
-![NestJS Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/server/@nestjs/core?color=red&logo=nestjs)
-![React Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/client/react?color=61dafb&logo=react)
-![TypeScript Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/client/dev/typescript?color=3178c6&logo=typescript)
+![NestJS Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/server/@nestjs/core?color=red&logo=nestjs)
+![React Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/client/react?color=61dafb&logo=react)
+![TypeScript Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/client/dev/typescript?color=3178c6&logo=typescript)
 ![Docker](https://img.shields.io/badge/Docker-✓-blue?logo=docker)
 ![PNPM](https://img.shields.io/badge/pnpm-✓-orange?logo=pnpm)
 ![TypeORM](https://img.shields.io/badge/TypeORM-✓-informational)
-![License](https://img.shields.io/github/license/devalentineomonya/NineHertz-NestJs-Tanstack-Start?color=blue)
+![License](https://img.shields.io/github/license/devalentineomonya/ninehertz-medic?color=blue)
 
 ## Overview
 
@@ -56,8 +56,8 @@ graph LR
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start.git
-cd NineHertz-NestJs-Tanstack-Start
+git clone https://github.com/devalentineomonya/ninehertz-medic.git
+cd ninehertz-medic
 ```
 
 ### 2. Configure environment variables:
@@ -115,7 +115,7 @@ docker-compose logs -f
 ## Project Structure
 
 ```
-NineHertz-NestJs-Tanstack-Start/
+ninehertz-medic/
 ├── client/               # React frontend application
 │   ├── public/           # Static assets
 │   ├── src/              # Application source code
@@ -228,11 +228,11 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/devalentineomonya/ninehertz-medic/blob/main/LICENSE) file for details.
 
 ## Support
 
-For issues or questions, please [open an issue](https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start/issues) on GitHub.
+For issues or questions, please [open an issue](https://github.com/devalentineomonya/ninehertz-medic/issues) on GitHub.
 
 ---
 
