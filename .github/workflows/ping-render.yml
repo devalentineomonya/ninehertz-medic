@@ -1,0 +1,24 @@
+name: Ping Render to Keep Awake
+
+on:
+  schedule:
+    - cron: "*/6 * * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Echo start time
+        run: echo "Starting Render ping at $(date -u) UTC"
+
+      - name: Ping Render health endpoint (app pings Supabase in turn)
+        env:
+          RENDER_URL: ${{ secrets.RENDER_URL }}
+        run: |
+          set -e
+          curl -sS -f "${RENDER_URL}/health"
+
+      - name: Done
+        run: echo "Finished Render ping at $(date -u) UTC"
