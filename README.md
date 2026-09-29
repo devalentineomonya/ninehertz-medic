@@ -12,7 +12,7 @@
 
 The NineHertz Full-Stack Starter is a modern application template featuring a NestJS backend with TypeORM and a React frontend with TanStack Query. Designed for rapid development and deployment, this project provides a complete foundation for building enterprise-grade applications with best practices in mind.
 
-**Live Demo**: [https://nine-hertz-demo.com](https://nine-hertz-demo.com) (example)
+**Live Demo**: [https://medic.devalentine.com](https://medic.devalentine.com)
 
 ## Architecture Diagram
 

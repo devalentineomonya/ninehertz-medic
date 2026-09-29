@@ -1,11 +1,11 @@
 # NineHertz React Client with TanStack Query & Vite
 
-![React Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/client/react?color=61dafb&logo=react)
-![TypeScript Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/client/dev/typescript?color=3178c6&logo=typescript)
-![Vite Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/client/vite?color=646cff&logo=vite)
-![TanStack Query Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/NineHertz-NestJs-Tanstack-Start/client/@tanstack/react-query?color=ff4154)
+![React Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/client/react?color=61dafb&logo=react)
+![TypeScript Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/client/dev/typescript?color=3178c6&logo=typescript)
+![Vite Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/client/vite?color=646cff&logo=vite)
+![TanStack Query Version](https://img.shields.io/github/package-json/dependency-version/devalentineomonya/ninehertz-medic/client/@tanstack/react-query?color=ff4154)
 ![PNPM](https://img.shields.io/badge/pnpm-✓-orange?logo=pnpm)
-![License](https://img.shields.io/github/license/devalentineomonya/NineHertz-NestJs-Tanstack-Start?color=blue)
+![License](https://img.shields.io/github/license/devalentineomonya/ninehertz-medic?color=blue)
 
 ## Overview
 
@@ -57,14 +57,14 @@ client/
 
 - Node.js v18+
 - PNPM (recommended) or npm
-- Backend server running (see [server README](https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start/tree/main/server))
+- Backend server running (see [server README](https://github.com/devalentineomonya/ninehertz-medic/tree/main/server))
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start.git
-   cd NineHertz-NestJs-Tanstack-Start/client
+   git clone https://github.com/devalentineomonya/ninehertz-medic.git
+   cd ninehertz-medic/client
    ```
 
 2. Install dependencies:
@@ -207,10 +207,10 @@ const MainLayout = () => {
 The client is ready for deployment to various platforms:
 
 ### Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdevalentineomonya%2FNineHertz-NestJs-Tanstack-Start&project-name=ninehertz-app&repository-name=ninehertz-app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdevalentineomonya%2Fninehertz-medic&project-name=ninehertz-app&repository-name=ninehertz-app)
 
 ### Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/devalentineomonya/ninehertz-medic)
 
 ### Static Hosting
 1. Build the production bundle:
@@ -252,11 +252,11 @@ Contributions are welcome! Please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/devalentineomonya/ninehertz-medic/blob/main/LICENSE) file for details.
 
 ## Support
 
-For issues or feature requests, please [open an issue](https://github.com/devalentineomonya/NineHertz-NestJs-Tanstack-Start/issues) on GitHub.
+For issues or feature requests, please [open an issue](https://github.com/devalentineomonya/ninehertz-medic/issues) on GitHub.
 
 ---
 
