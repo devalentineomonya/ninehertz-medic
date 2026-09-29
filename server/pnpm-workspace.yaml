@@ -1,5 +1,12 @@
+allowBuilds:
+  '@nestjs/core': true
+  '@scarf/scarf': true
+  '@swc/core': true
+  bcrypt: true
+  protobufjs: true
 onlyBuiltDependencies:
   - '@nestjs/core'
   - '@scarf/scarf'
   - '@swc/core'
   - bcrypt
+  - protobufjs
